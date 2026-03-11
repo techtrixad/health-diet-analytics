@@ -1,0 +1,68 @@
+Food,Calories,Protein,Carbs,Fat,Fiber,Sugar,Sodium,Type,Meal
+Oats,389,16.9,66.3,6.9,10.6,0.9,2,Veg,Breakfast
+Poha,180,4,30,3,2,1,150,Veg,Breakfast
+Upma,210,5,32,6,3,1,180,Veg,Breakfast
+Idli,150,5,30,1,2,1,120,Veg,Breakfast
+Dosa,210,6,34,5,2,1,200,Veg,Breakfast
+Omelette,180,12,2,14,0,1,200,NonVeg,Breakfast
+Milk,42,3.4,5,1,0,5,44,Veg,Breakfast
+Yogurt,59,10,3.6,0.4,0,3.2,36,Veg,Breakfast
+Whole Wheat Bread,247,13,41,4.2,7,6,491,Veg,Breakfast
+Peanut Butter,588,25,20,50,6,9,17,Veg,Breakfast
+Avocado Toast,250,8,28,14,7,2,300,Veg,Breakfast
+Pancakes,227,6,28,10,1,6,439,Veg,Breakfast
+Smoothie Bowl,300,10,45,8,6,20,80,Veg,Breakfast
+Scrambled Eggs,190,14,2,15,0,1,210,NonVeg,Breakfast
+Protein Shake,220,24,8,4,0,3,150,NonVeg,Breakfast
+Banana Oatmeal,320,10,58,6,7,12,90,Veg,Breakfast
+
+Brown Rice,123,2.7,25.6,1,1.8,0.4,4,Veg,Lunch
+White Rice,130,2.4,28,0.3,0.4,0.1,1,Veg,Lunch
+Chapati,120,3,20,3,2,0,100,Veg,Lunch
+Quinoa,120,4.4,21.3,1.9,2.8,0.9,7,Veg,Lunch
+Lentils,116,9,20,0.4,8,1.8,2,Veg,Lunch
+Chickpeas,164,9,27,2.6,7.6,4.8,24,Veg,Lunch
+Rajma,140,9,25,0.5,6,1,10,Veg,Lunch
+Paneer Curry,300,18,6,20,1,2,250,Veg,Lunch
+Chicken Breast,165,31,0,3.6,0,0,74,NonVeg,Lunch
+Fish Curry,220,22,3,12,0,1,150,NonVeg,Lunch
+Vegetable Biryani,280,6,45,8,4,5,350,Veg,Lunch
+Chicken Biryani,350,22,45,12,2,3,500,NonVeg,Lunch
+Veg Pulao,220,5,38,6,3,4,280,Veg,Lunch
+Dal Tadka,200,10,22,8,6,3,320,Veg,Lunch
+Grilled Fish,240,28,0,14,0,0,100,NonVeg,Lunch
+Tofu Stir Fry,180,12,10,10,3,2,200,Veg,Lunch
+
+Apple,52,0.3,14,0.2,2.4,10,1,Veg,Snack
+Banana,96,1.3,27,0.3,2.6,14,1,Veg,Snack
+Orange,47,0.9,12,0.1,2.4,9,0,Veg,Snack
+Strawberries,32,0.7,8,0.3,2,4.9,1,Veg,Snack
+Blueberries,57,0.7,14,0.3,2.4,10,1,Veg,Snack
+Mango,60,0.8,15,0.4,1.6,14,1,Veg,Snack
+Pineapple,50,0.5,13,0.1,1.4,10,1,Veg,Snack
+Almonds,579,21,22,50,12.5,4.4,1,Veg,Snack
+Peanuts,567,26,16,49,8.5,4.7,18,Veg,Snack
+Carrot Sticks,41,0.9,10,0.2,2.8,4.7,69,Veg,Snack
+Granola Bar,200,4,30,7,3,12,150,Veg,Snack
+Trail Mix,300,8,25,20,5,10,50,Veg,Snack
+Greek Yogurt,100,17,6,0.4,0,4,50,Veg,Snack
+Protein Bar,220,20,18,7,3,6,200,NonVeg,Snack
+Fruit Salad,120,2,28,0.5,4,20,5,Veg,Snack
+Roasted Chickpeas,150,7,20,4,5,3,180,Veg,Snack
+
+Grilled Chicken,200,30,0,7,0,0,90,NonVeg,Dinner
+Salmon,208,20,0,13,0,0,59,NonVeg,Dinner
+Paneer,265,18,1.2,20.8,0,1.2,22,Veg,Dinner
+Tofu,76,8,1.9,4.8,0.3,0.6,7,Veg,Dinner
+Vegetable Soup,90,3,15,2,3,3,120,Veg,Dinner
+Broccoli,34,2.8,7,0.4,2.6,1.7,33,Veg,Dinner
+Spinach,23,2.9,3.6,0.4,2.2,0.4,79,Veg,Dinner
+Mixed Veg Curry,120,4,18,4,3,3,150,Veg,Dinner
+Sweet Potato,86,1.6,20,0.1,3,4.2,55,Veg,Dinner
+Potato Curry,110,2,18,3,2,2,140,Veg,Dinner
+Chicken Stir Fry,250,28,8,12,2,2,300,NonVeg,Dinner
+Vegetable Noodles,300,8,50,10,5,6,400,Veg,Dinner
+Egg Curry,240,16,6,18,1,2,320,NonVeg,Dinner
+Dal Soup,180,10,20,5,6,2,250,Veg,Dinner
+Grilled Paneer,220,16,4,16,0,1,200,Veg,Dinner
+Fish Tacos,260,22,20,12,3,2,350,NonVeg,Dinner
