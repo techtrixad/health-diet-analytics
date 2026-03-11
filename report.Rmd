@@ -1,0 +1,52 @@
+---
+title: "AI Diet Recommendation Report"
+output: pdf_document
+params:
+  diet_table: NA
+  calorie_plot: NA
+  macro_plot: NA
+  nutrition_plot: NA
+  bmi: NA
+  category: NA
+  calories: NA
+---
+
+# Health Summary
+
+**BMI:** `r round(params$bmi,2)`
+
+**Category:** `r params$category`
+
+**Recommended Calories:** `r round(params$calories)`
+
+---
+
+# Recommended Diet Plan
+
+```{r echo=FALSE}
+knitr::kable(params$diet_table)
+```
+
+---
+
+# Calories Distribution
+
+```{r echo=FALSE}
+params$calorie_plot
+```
+
+---
+
+# Macronutrient Analysis
+
+```{r echo=FALSE}
+params$macro_plot
+```
+
+---
+
+# Nutrition Dashboard
+
+```{r echo=FALSE}
+params$nutrition_plot
+```
